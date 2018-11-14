@@ -15,6 +15,9 @@ Apicra is opened for technologies.
 if You want to check your machine over apicra scripts:
 https://serverscope.io/trials/740M#io
 
+### Scripts over API with using apicra-ssh
+https://github.com/apicra/ssh
+
 Should be possible to execute on any server:
 memory
 size
