@@ -59,8 +59,11 @@ or
 + os
   + win
     + bash
-      config.yaml
+      config.yaml / default.yaml
         extension = sh
         
-pobranie zmiennej {os.bash.extension}
+### pobranie zmiennej z config do uzycia w pliku apicra.yaml
+
+    {os.bash.config.extension}
+    {os.bash.default.extension}
     
