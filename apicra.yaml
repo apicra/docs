@@ -1,0 +1,100 @@
+schema: apicra/application
+version: 1.0.0
+description: All objects which are using in development processes, all systems
+
+gitlab:
+  url:
+  ticket:
+    - create
+    - done
+local:
+  db:
+  - update
+  - remove
+
+test:
+
+production:
+  update:
+    - ls
+    - composer
+
+workspace:
+  install:
+    - unitapi.workplace.software
+
+keepass:
+    file:
+
+environment:
+  local:
+    ssh:
+      type: 'docker_name'
+      credentials:
+    db:
+      type: 'mysql'
+      credentials: "keepass.file"
+  test:
+    ssh: 'ssh credentials'
+  live:
+    ssh: 'ssh credentials'
+
+
+
+connection:
+  db:
+    local: 'docker_name'
+    test: 'ssh credentials'
+    live: 'ssh credentials'
+  ssh:
+    local: 'docker_name'
+    test: 'ssh credentials'
+    live: 'ssh credentials'
+
+
+
+os:
+  separator:
+    win: '\'
+    unix: '/'
+  extension:
+    bash:
+      win: 'bat'
+      unix: 'sh'
+
+project-config:
+  local:
+    path: ''
+  live:
+    path: ''
+  test:
+    path: ''
+
+cmd:
+  artisan:
+    type: "git-clone-http"
+    url: "url to standard command, github repository"
+    filter: "*.sh"
+  docker:
+    path: "test"
+    filter: "*.sh"
+  migration:
+    path: "upgrade/*.{os.bash.default.extension}"
+  mysql:
+    cmd:
+      backup: {connection} {project.path} {cmd.mysql.backup}
+  test:
+    path: "test"
+  www:
+    path: "test"
+  default:
+    cmd:
+      restore_from_test: "dd"
+
+  synchronisation:
+    from_live_db_to_local:
+      cmd:
+        - {connection.live} {project.path} backup.sh
+        - {connection.local} {project.path} {cmd.mysql.restore_from_test}
+        - {connection.test} {project.path} {cmd.mysql.backup}
+        - {connection.live} {project.path} {cmd.mysql.backup}
