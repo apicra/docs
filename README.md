@@ -67,3 +67,7 @@ or
     {os.bash.config.extension}
     {os.bash.default.extension}
     
+
+## Example config for apicra:
+[apicra](apicra.yaml)
+    
