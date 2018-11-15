@@ -26,3 +26,41 @@ cpu
 ## Moudularisation, over public and private repositories
 Installation of new packets should by possible over repositories url, to clone it and use it
 
+## How to startr project with apicra
+### 1. Go to your project path
+
+### 2. Download script:
+apicra-install.sh / apicra-install.bat 
+and execute
+
+    sh apicra-install.sh
+or 
+
+    ./apicra-install.bat
+
+
+### 3. Initialisation, generate the config file: apicra.yaml
+
+    apicra init
+    
+### 4. start using in console, with menu
+  
+    apicra
+    
+
+## Struktura:
+
+### Pliki: skrypty, stale, zmienne srodowiskowe
+  ukladane w odniesieniu do systemu
+  
+  
+### Zmienne w zaleznosci od systemu
+
++ os
+  + win
+    + bash
+      config.yaml
+        extension = sh
+        
+pobranie zmiennej {os.bash.extension}
+    
