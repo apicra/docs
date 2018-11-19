@@ -1,4 +1,4 @@
-# docs
+# :cloud: APicra documentation
 Documentation | Apicra Docs
 
 # What it's?
