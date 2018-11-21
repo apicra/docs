@@ -6,6 +6,9 @@ ApiCra works on Mac, Linux, Windows, and more.
 Access to Remote development environments force users to give up their software application. 
 ApiCra works on your local system with the tools you're already familiar with. 
 
+##[PL]  Do czego sluzy?
+Apicra wspiera programiste w codziennym wytwarzaniu kodu.
+Narzedzie to sluzy do definiowania i wykonywania skryptow i uslug automatyzujacych wytwarzanie, testowanie i dostarczanie oprogramowania.
 
 ## Modules
 
