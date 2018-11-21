@@ -9,7 +9,7 @@ ApiCra works on your local system with the tools you're already familiar with.
 ##  Do czego sluzy?
 Apicra wspiera programiste w codziennym wytwarzaniu kodu.
 Apicra to zestaw narzedzi sluzacych do definiowania i wykonywania skryptow i uslug automatyzujacych wytwarzanie, testowanie i dostarczanie oprogramowania.
-Wspiera istniejace narzedzia w DEVOPS
+Wspiera istniejace narzedzia dla DEVOPS
 
 
 ## Modules
