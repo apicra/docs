@@ -26,11 +26,11 @@ https://github.com/apicra/win-ticket-version-flow
 
 | command | local files | remote github | remote NPMJS | shortcut to APICRA
 | --- | --- | --- | --- | --- |
-| -create.bat | create | create | --- | .apicra\-project-create.bat %GIT_USER% %PROJECT% |
+| -create.bat | create | create | --- | .apicra\\-project-create.bat %GIT_USER% %PROJECT% |
 | -publish.bat | --- | push, tag | create | --- |
 | **-ticket.bat** | --- | **push** | --- | --- |
 | **-version.bat** | --- | **tag** | **update** | --- |
-| -delete.bat | delete | delete | delete | .apicra\-project-delete.bat %GIT_USER% %PROJECT%  |
+| -delete.bat | delete | delete | delete | .apicra\\-project-delete.bat %GIT_USER% %PROJECT%  |
 
 
 #### 2019.05, Devops packages designed for windows
