@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+title: Apicra documentation
+description: Apicra is a Packaging system for bash files
+show_downloads: true
+google_analytics: [Your Google Analytics tracking ID]
