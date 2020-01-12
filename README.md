@@ -16,9 +16,11 @@ bash scripts for automatisation.
 ApiCra works on Mac, Linux, Windows, and another systems. 
 ApiCra works on your local system with the tools you're already familiar with. 
 
+
 ## History
 
 #### 2019.06 Devops flow tickets
+[docs](https://github.com/apicra/win-ticket-version-flow/blob/master/README.md)
 https://github.com/apicra/win-ticket-version-flow
 + help with daily git, npmjs usages
 + can sent in one time ticket, push, and publish project on npmjs, github
