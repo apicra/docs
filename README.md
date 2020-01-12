@@ -99,4 +99,12 @@ or
   
     apicra
     
+# Our tools
+try it, or use it if you join to our opensource team!
 
+## Opensource
++ [Markdown templates](https://jekyllrb.com/)
+
+## Thanks for
++ [jetbrains tools](https://www.jetbrains.com/)
++ 
