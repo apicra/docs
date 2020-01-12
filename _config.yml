@@ -1,7 +1,15 @@
 theme: jekyll-theme-leap-day
+gems:
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
 title: Apicra documentation
 description: Apicra is a Packaging system for bash files
 show_downloads: true
 google_analytics: [Your Google Analytics tracking ID]
 nav_list:
   Home: ['Home','/', 'fa-home']
+twitter_url: "https://twitter.com/"
+github_url: ""
