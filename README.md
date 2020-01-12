@@ -37,7 +37,7 @@ for all, public and private repositories, most popular git solutions such:
 
        
         
-## History
+# History
 
 #### 2019.06 Devops flow tickets
 + [docs](https://github.com/apicra/win-ticket-version-flow/blob/master/README.md)
@@ -79,7 +79,7 @@ cpu
 
 
 
-## How to start a project
+# How to start a project
 
 ### 1. Go to your project path
 
