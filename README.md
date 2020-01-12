@@ -1,6 +1,4 @@
 # :cloud: APicra documentation
-Documentation | Apicra Docs
-
 ![Apicra logo](apicra_logo.png)
 
 + [apicra.com](https://apicra.com/)
