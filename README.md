@@ -1,4 +1,6 @@
-# :cloud: APicra documentation
+# APicra documentation :cloud:
+Apicra is a Packaging system for bash scripts
+
 ![Apicra logo](apicra_logo.png)
 
 + [apicra.com](https://apicra.com/)
