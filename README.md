@@ -3,7 +3,8 @@ Documentation | Apicra Docs
 
 ![Apicra logo](https://github.com/apicra/logo/blob/master/apicra_logo.png)
 
-+ [blog](https://blog.apicra.com/)
++ [apicra.com](https://apicra.com/)
++ [blog.apicra.com](https://blog.apicra.com/)
 + [repositories on github](https://github.com/apicra)
 
 ##  For what?
