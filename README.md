@@ -1,5 +1,7 @@
 # :cloud: APicra documentation
 Documentation | Apicra Docs
+[blog](https://blog.apicra.com/)
+[repositories on github](https://github.com/apicra)
 
 ##  For what?
 Apicra is open package system for bash files.
