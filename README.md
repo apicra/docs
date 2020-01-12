@@ -1,6 +1,8 @@
 # :cloud: APicra documentation
 Documentation | Apicra Docs
+
 ![Apicra logo](https://github.com/apicra/logo/blob/master/apicra_logo.png)
+
 + [blog](https://blog.apicra.com/)
 + [repositories on github](https://github.com/apicra)
 
