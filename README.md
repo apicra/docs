@@ -2,14 +2,34 @@
 Documentation | Apicra Docs
 
 # What it's?
-ApiCra works on Mac, Linux, Windows, and more. 
+ApiCra works on Mac, Linux, Windows, and another systems. 
 Access to Remote development environments force users to give up their software application. 
 ApiCra works on your local system with the tools you're already familiar with. 
 
-##  Do czego sluzy?
-Apicra wspiera programiste w codziennym wytwarzaniu kodu.
-Apicra to zestaw narzedzi sluzacych do definiowania i wykonywania skryptow i uslug automatyzujacych wytwarzanie, testowanie i dostarczanie oprogramowania.
-Wspiera istniejace narzedzia dla DEVOPS
+##  For what?
+Apicra is open package system for bash files.
+library based on .bat/.ssh files
+
+## For Whom?
+supports programmers in daily software development, in each area, where are necessary
+bash scripts for automatisation.
+
+Apicra is a set of tools used to define and execute scripts and services that automate software development, testing and delivery.
+Supports and uses existing tools for DEVOPS
+
+## History
+
+### 2019.06 Devops flow tickets
++ help with daily git, npmjs usages
++ can sent in one time ticket, push, and publish project on npmjs, github
++ has internal variables
+https://github.com/apicra/win-ticket-version-flow
+
+### 2019.05, Devops packages designed for windows
+https://github.com/apicra/npm-github-win
+
+### 2018, Start with Devops - all in one
+https://github.com/apicra/devops
 
 
 ## Modules
@@ -28,8 +48,12 @@ memory
 size
 cpu
 
-## Moudularisation, over public and private repositories
+## Moudularisation over environment
 Installation of new packets should by possible over repositories url, to clone it and use it
+for all, public and private repositories, most popular git solutions such: 
++ github
++ bitbucket
++ gitlab
 
 ## How to startr project with apicra
 ### 1. Go to your project path
