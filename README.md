@@ -20,8 +20,8 @@ ApiCra works on your local system with the tools you're already familiar with.
 ## History
 
 #### 2019.06 Devops flow tickets
-[docs](https://github.com/apicra/win-ticket-version-flow/blob/master/README.md)
-https://github.com/apicra/win-ticket-version-flow
++ [docs](https://github.com/apicra/win-ticket-version-flow/blob/master/README.md)
++ https://github.com/apicra/win-ticket-version-flow
 + help with daily git, npmjs usages
 + can sent in one time ticket, push, and publish project on npmjs, github
 + has internal variables
@@ -36,10 +36,12 @@ https://github.com/apicra/win-ticket-version-flow
 
 
 #### 2019.05, Devops packages designed for windows
-https://github.com/apicra/npm-github-win
++ [docs](https://github.com/apicra/npm-github-win/blob/master/README.md)
++ https://github.com/apicra/npm-github-win
 
 #### 2018, Start with Devops - all in one
-https://github.com/apicra/devops
++ [docs](https://github.com/apicra/devops/blob/master/README.md)
++ https://github.com/apicra/devops
 
 
 ## Modules
