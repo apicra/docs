@@ -18,11 +18,25 @@ Apicra can have access to Remote development environments force users to give up
 supports programmers in daily software development, in each area, where are necessary
 bash scripts for automatisation.
 
-# Where it Works?
+## Where it Works?
 ApiCra works on Mac, Linux, Windows, and another systems. 
 ApiCra works on your local system with the tools you're already familiar with. 
 
 
+## Modules
+
+Apicra is opened for libraries, packages
+now it is possbile to wirte new direkt on project
+
+#### Moudularisation over environment
+Installation of new packets should by possible over repositories url, to clone it and use it
+for all, public and private repositories, most popular git solutions such: 
++ github
++ bitbucket
++ gitlab
+
+       
+        
 ## History
 
 #### 2019.06 Devops flow tickets
@@ -50,11 +64,6 @@ ApiCra works on your local system with the tools you're already familiar with.
 + [code](https://github.com/apicra/devops)
 
 
-## Modules
-
-Apicra is opened for libraries, packages
-now it is possbile to wirte new direkt on project
-
 ## IDEAS
 if You want to check your machine over apicra scripts:
 [serverscope.io](https://serverscope.io/trials/740M#io)
@@ -67,14 +76,11 @@ memory
 size
 cpu
 
-## Moudularisation over environment
-Installation of new packets should by possible over repositories url, to clone it and use it
-for all, public and private repositories, most popular git solutions such: 
-+ github
-+ bitbucket
-+ gitlab
 
-## How to startr project with apicra
+
+
+## How to start a project
+
 ### 1. Go to your project path
 
 ### 2. Download script:
@@ -96,17 +102,3 @@ or
     apicra
     
 
-## Struktura:
-
-### Pliki: skrypty, stale, zmienne srodowiskowe
-  ukladane w odniesieniu do systemu
-  
-  
-### Zmienne w zaleznosci od systemu
-
-+ os
-  + win
-    + bash
-      config.yaml / default.yaml
-        extension = sh
-        
