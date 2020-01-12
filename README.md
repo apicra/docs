@@ -21,7 +21,7 @@ ApiCra works on your local system with the tools you're already familiar with.
 
 #### 2019.06 Devops flow tickets
 + [docs](https://github.com/apicra/win-ticket-version-flow/blob/master/README.md)
-+ https://github.com/apicra/win-ticket-version-flow
++ [code](https://github.com/apicra/win-ticket-version-flow)
 + help with daily git, npmjs usages
 + can sent in one time ticket, push, and publish project on npmjs, github
 + has internal variables
@@ -37,11 +37,11 @@ ApiCra works on your local system with the tools you're already familiar with.
 
 #### 2019.05, Devops packages designed for windows
 + [docs](https://github.com/apicra/npm-github-win/blob/master/README.md)
-+ https://github.com/apicra/npm-github-win
++ [code](https://github.com/apicra/npm-github-win)
 
 #### 2018, Start with Devops - all in one
 + [docs](https://github.com/apicra/devops/blob/master/README.md)
-+ https://github.com/apicra/devops
++ [code](https://github.com/apicra/devops)
 
 
 ## Modules
@@ -51,10 +51,10 @@ now it is possbile to wirte new direkt on project
 
 ## IDEAS
 if You want to check your machine over apicra scripts:
-https://serverscope.io/trials/740M#io
+[serverscope.io](https://serverscope.io/trials/740M#io)
 
 ### Scripts over API with using apicra-ssh
-https://github.com/apicra/ssh
+[ssh](https://github.com/apicra/ssh)
 
 Should be possible to execute on any server:
 memory
