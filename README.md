@@ -24,13 +24,13 @@ https://github.com/apicra/win-ticket-version-flow
 + can sent in one time ticket, push, and publish project on npmjs, github
 + has internal variables
 
-| command | local files | remote github | remote NPMJS |
-| --- | --- | --- | --- |
-| -create.bat | create | create | --- |
-| -publish.bat | --- | push, tag | create |
-| **-ticket.bat** | --- | **push** | --- |
-| **-version.bat** | --- | **tag** | **update** |
-| -delete.bat | delete | delete | delete |
+| command | local files | remote github | remote NPMJS | shortcut to APICRA
+| --- | --- | --- | --- | --- |
+| -create.bat | create | create | --- | .apicra\-project-create.bat %GIT_USER% %PROJECT% |
+| -publish.bat | --- | push, tag | create | --- |
+| **-ticket.bat** | --- | **push** | --- | --- |
+| **-version.bat** | --- | **tag** | **update** | --- |
+| -delete.bat | delete | delete | delete | .apicra\-project-delete.bat %GIT_USER% %PROJECT%  |
 
 
 #### 2019.05, Devops packages designed for windows
