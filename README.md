@@ -1,40 +1,49 @@
 # :cloud: APicra documentation
 Documentation | Apicra Docs
 
-# What it's?
-ApiCra works on Mac, Linux, Windows, and another systems. 
-Access to Remote development environments force users to give up their software application. 
-ApiCra works on your local system with the tools you're already familiar with. 
-
 ##  For what?
 Apicra is open package system for bash files.
 library based on .bat/.ssh files
+Apicra is a set of tools used to define and execute scripts and services that automate software development, testing and delivery.
+Supports and uses existing tools for DEVOPS
+Apicra can have access to Remote development environments force users to give up their software application. 
 
 ## For Whom?
 supports programmers in daily software development, in each area, where are necessary
 bash scripts for automatisation.
 
-Apicra is a set of tools used to define and execute scripts and services that automate software development, testing and delivery.
-Supports and uses existing tools for DEVOPS
+# Where it Works?
+ApiCra works on Mac, Linux, Windows, and another systems. 
+ApiCra works on your local system with the tools you're already familiar with. 
 
 ## History
 
-### 2019.06 Devops flow tickets
+#### 2019.06 Devops flow tickets
+https://github.com/apicra/win-ticket-version-flow
 + help with daily git, npmjs usages
 + can sent in one time ticket, push, and publish project on npmjs, github
 + has internal variables
-https://github.com/apicra/win-ticket-version-flow
 
-### 2019.05, Devops packages designed for windows
+| command | local files | remote github | remote NPMJS |
+| --- | --- | --- | --- |
+| -create.bat | create | create | --- |
+| -publish.bat | --- | push, tag | create |
+| **-ticket.bat** | --- | **push** | --- |
+| **-version.bat** | --- | **tag** | **update** |
+| -delete.bat | delete | delete | delete |
+
+
+#### 2019.05, Devops packages designed for windows
 https://github.com/apicra/npm-github-win
 
-### 2018, Start with Devops - all in one
+#### 2018, Start with Devops - all in one
 https://github.com/apicra/devops
 
 
 ## Modules
 
-Apicra is opened for technologies.
+Apicra is opened for libraries, packages
+now it is possbile to wirte new direkt on project
 
 ## IDEAS
 if You want to check your machine over apicra scripts:
