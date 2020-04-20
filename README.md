@@ -3,9 +3,16 @@ Apicra is a Packaging system for bash scripts
 
 ![Apicra logo](apicra_logo.png)
 
-+ [apicra.com](https://apicra.com/)
-+ [blog.apicra.com](https://blog.apicra.com/)
++ [Logo](http://logo.apicra.com)
+
 + [repositories on github](https://github.com/apicra)
+
++ [www.apicra.com](https://www.apicra.com/)
+
++ [Documentation](http://docs.apicra.com)
+
++ [Blog](http://blog.apicra.com)
+
 
 ##  For what?
 Apicra is open package system for bash files.
