@@ -1,5 +1,9 @@
-# APicra documentation :cloud:
+# [APIcra documentation :cloud:](https://docs.apicra.com)
 Apicra is a Packaging system for bash scripts
+
+![apicra-logo.png](https://logo.apicra.com/apicra-logo.png)
+
+https://github.com/apicra
 
 ![Apicra logo](apicra_logo.png)
 
@@ -117,3 +121,16 @@ try it, or use it if you join to our opensource team!
 ## Thanks for
 + [jetbrains tools](https://www.jetbrains.com/)
 + 
+
+# How to create bash scripts on windows 
+
+
+
+## Operator | Description
+
+EQU      | equal to
+NEQ      | not equal to
+LSS      | less than
+LEQ      | less than or equal to
+GTR      | greater than
+GEQ      | greater than or equal to
