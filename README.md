@@ -5,8 +5,6 @@ Apicra is a Packaging system for bash scripts
 
 https://github.com/apicra
 
-![Apicra logo](apicra_logo.png)
-
 + [Logo](http://logo.apicra.com)
 
 + [repositories on github](https://github.com/apicra)
