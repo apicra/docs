@@ -15,6 +15,17 @@ https://github.com/apicra
 
 + [Blog](http://blog.apicra.com)
 
+# TODO
++ porzadki z dokumentacja przy roznych implementacjach apicra
++ apipong - zdefiniowac, logo, docs
++ jak testowac shell scripts,
+       
+       ticket -> branch -> deployment
+
+       tests/
+              file_exist.sh/bat
+              file_in_folder.sh/bat
+              proceess_exist.sh/bat
 
 ##  For what?
 Apicra is open package system for bash files.
